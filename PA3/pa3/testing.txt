@@ -1,0 +1,10 @@
+# Board size.
+3x2
+# Additional Info
+B01
+~M10 & ~M21
+# Query Sentences
+M00 | M11
+M00
+M11
+~B20
